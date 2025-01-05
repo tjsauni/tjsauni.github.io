@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Did I Start A Digital Garden?
-date: 30/07/2022
+date: 03/01/2025
 categories: []
 tag: [personal]
 ---
